@@ -1,0 +1,32 @@
+Malicious,Filename,Subject Id,Spelling or Grammar,Potent Mal Links,Invalid Domain or Sender,Appeal to Authority,Appeal to Greed,Appeal to Urgency,Other Phishy Findings,Z Total People,z_no_trust,z_trust,Web/Email
+False,EmmailFialure.png,43857067,5 ,11 ,2 ,7 ,0 ,0 ,1 ,17 ,14 ,3 ,Email
+,Firmoo.png,43857071,1 ,3 ,1 ,0 ,1 ,5 ,2 ,15 ,7 ,8 ,Email
+,gmail.png,43857072,4 ,10 ,2 ,0 ,0 ,0 ,3 ,15 ,12 ,3 ,Email
+,Newsweek.png,43857077,0 ,0 ,1 ,0 ,0 ,0 ,0 ,15 ,3 ,12 ,Web
+,Snapchat.png,43857080,0 ,2 ,0 ,0 ,0 ,0 ,2 ,16 ,5 ,11 ,Web
+,SprintBill.png,43857083,0 ,3 ,2 ,0 ,0 ,1 ,5 ,14 ,8 ,6 ,Email
+,subject-303.png,43857084,0 ,4 ,1 ,0 ,0 ,2 ,1 ,15 ,6 ,9 ,Email
+,Twitter.png,43857090,1 ,0 ,1 ,0 ,0 ,0 ,2 ,15 ,4 ,11 ,Email
+,UPRailRoad.png,43857092,1 ,8 ,5 ,1 ,0 ,0 ,2 ,16 ,12 ,4 ,Email
+,UPS.png,43857093,4 ,6 ,3 ,2 ,2 ,5 ,6 ,51 ,29 ,22 ,Email
+,Vanguard.png,43857098,5 ,10 ,3 ,7 ,0 ,5 ,7 ,51 ,35 ,16 ,Email
+,venmo.png,43857100,1 ,0 ,0 ,0 ,0 ,0 ,3 ,54 ,19 ,35 ,Web
+,VenmoUber.png,43857101,1 ,1 ,2 ,0 ,1 ,0 ,2 ,50 ,20 ,30 ,Email
+True,BoA2(1).jpg,43857918,2 ,0 ,3 ,0 ,0 ,0 ,2 ,45 ,20 ,25 ,Web
+,Box.png,43857060,1 ,1 ,6 ,1 ,0 ,8 ,0 ,16 ,15 ,1 ,Web
+,craigslist.png,43857061,3,0,2,0,0,0,1 ,14 ,7 ,7 ,Web
+,Discover.png,43857063,1,3,5,1,0,1,5 ,16 ,9 ,7 ,Email
+,Dropbox.png,43857064,6 ,6 ,7 ,0 ,1 ,7 ,1 ,16 ,13 ,3 ,Email
+,ebay.png,43857066,9 ,3 ,7 ,0 ,0 ,0 ,4 ,14 ,12 ,2 ,Web
+,fedex.png,43857069,10 ,8 ,11 ,0 ,1 ,11 ,2 ,15 ,15 ,0 ,Email
+,GoogleDoc.jpg,43861756,25 ,17 ,24 ,7 ,0 ,24 ,5 ,56 ,52 ,4 ,Email
+,IRS.png,43857074,1 ,10 ,11 ,6 ,1 ,2 ,4 ,15 ,15 ,0 ,Email
+,Paypal.png,43857079,1 ,2 ,10 ,0 ,0 ,0 ,3 ,15 ,13 ,2 ,Web
+,Sprint.png,43857081,1 ,7 ,11 ,0 ,8 ,4 ,4 ,17 ,17 ,0 ,Email
+,TaxInformationEmail.png,43857086,1 ,8 ,0 ,0 ,0 ,0 ,2 ,17 ,12 ,5 ,Email
+,TheWallStreetJournal.png,43857087,7 ,2 ,8 ,0 ,0 ,0 ,0 ,15 ,14 ,1 ,Web
+,Tumblr.png,43857089,0 ,6 ,11 ,2 ,0 ,11 ,2 ,15 ,14 ,1 ,Email
+,USPS.png,43857095,13 ,20 ,25 ,1 ,2 ,20 ,6 ,48 ,45 ,3 ,Email
+,USPSGmail.png,43857096,4 ,22 ,17 ,4 ,0 ,21 ,7 ,53 ,50 ,3 ,Email
+,VirusSpyware.png,43857103,1 ,6 ,13 ,3 ,0 ,2 ,7 ,49 ,37 ,12 ,Email
+,whatsup.png,43857104,23 ,4 ,18 ,1 ,2 ,0 ,5 ,57 ,45 ,12 ,Web

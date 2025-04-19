@@ -1,0 +1,8 @@
+Column_Name,Count,Ratio
+Invalid_Domain_Sender_Ratio,728,0.4287396937573616
+Poor_Spelling_or_Grammar_Ratio,311,0.18315665488810365
+Other_Phishy_Findings_Ratio,269,0.15842167255594816
+Appeal_to_Greed_Ratio,161,0.09481743227326266
+Appeal_to_Urgency_Ratio,113,0.06654888103651355
+Appeal_to_Authority_Ratio,104,0.061248527679623084
+Potential_Malicious_Links_Ratio,12,0.007067137809187279

@@ -1,0 +1,977 @@
+url,subject_id,if_malicious,malicious_guess,Present_Cue_Types_Guess,Website_Description,TrustWorthiness_Rating,Visual_Attractiveness_Rating,Comments
+https://panoptes-uploads.zooniverse.org/production/subject_location/550b7a90-4a5f-4869-a408-aa5974029bf5.jpeg,43856939,True,Nothing Phishy Here,,"The website appears to be a promotional page for a mobile network carrier, offering a deal on iPhone 11 devices and referencing the network's quality.",Very Trustworthy,Very Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The website appears to be a promotional page for a mobile network carrier, offering a deal on iPhone 11 devices and referencing the network's quality."",
+  ""TrustWorthiness Rating"": ""Very Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Very Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/eaf2c946-e1c6-4943-b891-1b68b8ab35a2.jpeg,43856944,True,Nothing Phishy Here,,The image appears to show a screenshot of a website that presents itself as an official United States government portal designed to assist users in finding various government-related information and services.,Very Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The image appears to show a screenshot of a website that presents itself as an official United States government portal designed to assist users in finding various government-related information and services."",
+  ""TrustWorthiness Rating"": ""Very Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/eb511aaf-b316-4233-9c6d-7555e89ac770.jpeg,43856946,True,Nothing Phishy Here,,"The website presented in the image appears to be that of a legitimate financial institution, featuring a promotional offer, options for online banking, and details about the credit union’s mission statement. It has a clean design with a clear navigation menu and professional graphical elements that are common in financial services websites.",Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The website presented in the image appears to be that of a legitimate financial institution, featuring a promotional offer, options for online banking, and details about the credit union’s mission statement. It has a clean design with a clear navigation menu and professional graphical elements that are common in financial services websites."",
+  ""Trustworthiness Rating"": ""Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/16889500-a4f3-4943-a8f3-369040f1e352.jpeg,43856947,True,Nothing Phishy Here,,"The website appears to be a login page for Wells Fargo, presenting options for banking, credit cards, loans and credit, investing and retirement, wealth management, and rewards and benefits. There's also a section promoting their mobile app and other banking features.",Very Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The website appears to be a login page for Wells Fargo, presenting options for banking, credit cards, loans and credit, investing and retirement, wealth management, and rewards and benefits. There's also a section promoting their mobile app and other banking features."",
+  ""TrustWorthiness Rating"": ""Very Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/1f10ad94-051a-4ab8-b267-68122f56e890.jpeg,43856950,True,Something's Phishy,Invalid Domain or Sender,"The image appears to depict a login or sign-up page for GitHub, designed to resemble the authentic GitHub website, with options to input a username, email, and password, accompanied by a button to 'Sign up for GitHub'. The layout mimics a standard registration page, promoting GitHub as a platform for developers.",Untrustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Something's Phishy"",
+  ""Present Cue Types"": [
+    ""Invalid Domain or Sender""
+  ],
+  ""Website Description"": ""The image appears to depict a login or sign-up page for GitHub, designed to resemble the authentic GitHub website, with options to input a username, email, and password, accompanied by a button to 'Sign up for GitHub'. The layout mimics a standard registration page, promoting GitHub as a platform for developers."",
+  ""TrustWorthiness Rating"": ""Untrustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/e9dcad29-fef1-4736-afa7-87bd1a853340.jpeg,43856951,True,Nothing Phishy Here,,"The website appears to be a retail page for 'Ross Dress for Less,' showcasing home decor products with an invitation to find a store.",Neutral,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The website appears to be a retail page for 'Ross Dress for Less,' showcasing home decor products with an invitation to find a store."",
+  ""TrustWorthiness Rating"": ""Neutral"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/0312b229-757a-47a3-8e65-e5f745c8b291.jpeg,43856953,True,Nothing Phishy Here,,"The image appears to show a legitimate retail website for Von Maur, displaying a holiday-themed layout with categories like Women, Juniors, Men, Kids, Shoes, Accessories, Beauty, Home & Gifts, and Sale. There is a HTTPS secure website protocol visible in the URL bar, and the domain 'vonmaur.com' seems consistent with the branding of the site.",Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The image appears to show a legitimate retail website for Von Maur, displaying a holiday-themed layout with categories like Women, Juniors, Men, Kids, Shoes, Accessories, Beauty, Home & Gifts, and Sale. There is a HTTPS secure website protocol visible in the URL bar, and the domain 'vonmaur.com' seems consistent with the branding of the site."",
+  ""TrustWorthiness Rating"": ""Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/293d2f95-0c0c-4a60-b4f4-082192e4ed90.jpeg,43856955,True,Nothing Phishy Here,,"The website appears to be a legitimate promotional page for mobile carrier services. It features an offer for '4 Lines for $25/line/mo.' when customers switch to this service, as well as advertising '4 Free LG Stylo 5' phones. It includes menu items such as PHONES, PLANS, WHY BOOST, DEALS, SUPPORT, MY BOOST, along with other typical website navigation elements. The website's visual design employs a bright, contrasting color scheme that is consistent with some mobile carrier branding.",Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The website appears to be a legitimate promotional page for mobile carrier services. It features an offer for '4 Lines for $25/line/mo.' when customers switch to this service, as well as advertising '4 Free LG Stylo 5' phones. It includes menu items such as PHONES, PLANS, WHY BOOST, DEALS, SUPPORT, MY BOOST, along with other typical website navigation elements. The website's visual design employs a bright, contrasting color scheme that is consistent with some mobile carrier branding."",
+  ""TrustWorthiness Rating"": ""Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/84813266-8357-4372-89d2-eb5abde14e7b.jpeg,43856957,True,Something's Phishy,Invalid Domain or Sender,"The website presents itself as a sign-up page for Facebook, mimicking the look and layout of the genuine Facebook website.",Very Untrustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Something's Phishy"",
+  ""Present Cue Types"": [
+    ""Invalid Domain or Sender""
+  ],
+  ""Website Description"": ""The website presents itself as a sign-up page for Facebook, mimicking the look and layout of the genuine Facebook website."",
+  ""TrustWorthiness Rating"": ""Very Untrustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/16b8802a-b05f-433b-93fa-e1278f9e022b.jpeg,43856959,True,Nothing Phishy Here,,"The website appears to be a platform for discovering and signing up for local events, with a focus on community and shared interests. The layout seems user-friendly with clear call-to-action buttons and well-organized event listings.",Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The website appears to be a platform for discovering and signing up for local events, with a focus on community and shared interests. The layout seems user-friendly with clear call-to-action buttons and well-organized event listings."",
+  ""TrustWorthiness Rating"": ""Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/238cfe1d-df83-41d5-97da-2b94038c4479.jpeg,43856961,True,Nothing Phishy Here,,"The image appears to show a login or registration page for a social networking service known as ASKfm, allowing users to interact either openly or anonymously.",Neutral,Neutral,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The image appears to show a login or registration page for a social networking service known as ASKfm, allowing users to interact either openly or anonymously."",
+  ""TrustWorthiness Rating"": ""Neutral"",
+  ""Visual Attractiveness Rating"": ""Neutral""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/6b2316e3-eaf3-4b45-8022-a4964ce580d4.jpeg,43856963,True,Nothing Phishy Here,,"The website appears to be a login page for Habbo, an online community targeting a younger audience with pixel art style graphics. It features sections like 'Home', 'Community', 'Shop' and 'Playing Habbo' with appropriately themed visuals.",Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The website appears to be a login page for Habbo, an online community targeting a younger audience with pixel art style graphics. It features sections like 'Home', 'Community', 'Shop' and 'Playing Habbo' with appropriately themed visuals."",
+  ""TrustWorthiness Rating"": ""Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/ebb77e86-9423-41d5-a874-60e9df6252f9.jpeg,43856965,True,Something's Phishy,Invalid Domain or Sender,The website appears to be a mimic of the Stack Overflow page with various graphics and options relating to coding and developers.,Untrustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Something's Phishy"",
+  ""Present Cue Types"": [""Invalid Domain or Sender""],
+  ""Website Description"": ""The website appears to be a mimic of the Stack Overflow page with various graphics and options relating to coding and developers."",
+  ""TrustWorthiness Rating"": ""Untrustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/4b16b657-ea19-40e6-af17-daf8e19799b6.jpeg,43856966,True,Nothing Phishy Here,,"The webpage appears to be a screenshot of the Slashdot website, which is a well-known news website that features articles on technology, science, and current events. It has a traditional layout with news headlines, article snippets, navigation bar, and advertisements.",Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The webpage appears to be a screenshot of the Slashdot website, which is a well-known news website that features articles on technology, science, and current events. It has a traditional layout with news headlines, article snippets, navigation bar, and advertisements."",
+  ""TrustWorthiness Rating"": ""Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/2e14a02b-f2f4-4c7e-83b7-6ecbc4e2e145.jpeg,43856968,True,Nothing Phishy Here,,"The website appears to be a legitimate page of RHS, dedicated to gardening. It features options such as 'My Plants,' 'My Calendar,' and 'My Ideas,' which seem to serve as personalized gardening tools for users.",Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The website appears to be a legitimate page of RHS, dedicated to gardening. It features options such as 'My Plants,' 'My Calendar,' and 'My Ideas,' which seem to serve as personalized gardening tools for users."",
+  ""TrustWorthiness Rating"": ""Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/7a63c4b7-24a2-4f4c-92d6-712652fb1701.jpeg,43856970,True,Something's Phishy,Invalid Domain or Sender,"The website presents itself as a community platform for finding fishing spots and sharing fishing-related information. It features a search function, navigation options such as 'Feed', 'Waters', 'Shop', 'Explore', 'Apps', and a call to action for searching different fishing-related terms or spots.",Untrustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Something's Phishy"",
+  ""Present Cue Types"": [""Invalid Domain or Sender""],
+  ""Website Description"": ""The website presents itself as a community platform for finding fishing spots and sharing fishing-related information. It features a search function, navigation options such as 'Feed', 'Waters', 'Shop', 'Explore', 'Apps', and a call to action for searching different fishing-related terms or spots."",
+  ""TrustWorthiness Rating"": ""Untrustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/43a589a3-ee59-4a40-b82a-54d182ec5296.jpeg,43856971,True,Nothing Phishy Here,,"The image shows a forum-style website that appears to be a community for parenting discussion. Various topics are discussed in thread-like format, with options for users to interact through replies and likes.",Neutral,Neutral,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The image shows a forum-style website that appears to be a community for parenting discussion. Various topics are discussed in thread-like format, with options for users to interact through replies and likes."",
+  ""TrustWorthiness Rating"": ""Neutral"",
+  ""Visual Attractiveness Rating"": ""Neutral""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/8c36e8d7-c175-41a4-87ae-edbd1e979724.jpeg,43856973,True,Nothing Phishy Here,,"The image appears to display a lifestyle website that focuses on personal stories and relationships. The design includes a menu with categories such as 'Popular', 'LOL', 'Love + Relationships', 'Inspiration', 'Health + Wellness', 'Pop Culture', 'LGBTQ', 'Experts + Workplace', 'Student Life', along with a visible search bar and a button prompting to 'GET THE APP'. There's a feature story with a headline about fiancés discussing engagement rings and thumbnails for additional articles below.",Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The image appears to display a lifestyle website that focuses on personal stories and relationships. The design includes a menu with categories such as 'Popular', 'LOL', 'Love + Relationships', 'Inspiration', 'Health + Wellness', 'Pop Culture', 'LGBTQ', 'Experts + Workplace', 'Student Life', along with a visible search bar and a button prompting to 'GET THE APP'. There's a feature story with a headline about fiancés discussing engagement rings and thumbnails for additional articles below."",
+  ""TrustWorthiness Rating"": ""Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/3f580a70-92da-45f1-baa2-38cc84b1ef01.jpeg,43856975,False,Nothing Phishy Here,,"The image shows a screenshot of the homepage of Omegle, a free online chat website that allows users to socialize with others without the need to register.",Neutral,Visually Unattractive or Unappealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The image shows a screenshot of the homepage of Omegle, a free online chat website that allows users to socialize with others without the need to register."",
+  ""TrustWorthiness Rating"": ""Neutral"",
+  ""Visual Attractiveness Rating"": ""Visually Unattractive or Unappealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/f6f1d33e-746e-495b-939e-b531e3ca5dd6.jpeg,43856976,False,Nothing Phishy Here,,"The website in the image appears to be a login page for Ravelry, which is a community site for knitters and crocheters. The URL displayed in the browser matches the domain of the legitimate Ravelry website. The page has fields for entering a username and password and offers a login option as well as an option to join the site.",Very Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The website in the image appears to be a login page for Ravelry, which is a community site for knitters and crocheters. The URL displayed in the browser matches the domain of the legitimate Ravelry website. The page has fields for entering a username and password and offers a login option as well as an option to join the site."",
+  ""TrustWorthiness Rating"": ""Very Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/05d5b62a-5b99-4d10-b839-411e030edc10.jpeg,43856978,False,Nothing Phishy Here,,"The image appears to be a screenshot of a website promoting a VR game called 'Sports Bar VR 2.0'. The screenshot shows logos of virtual reality platforms like PlayStation VR, Steam VR, Oculus, and Vive, indicating that the game is available on these platforms.",Neutral,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The image appears to be a screenshot of a website promoting a VR game called 'Sports Bar VR 2.0'. The screenshot shows logos of virtual reality platforms like PlayStation VR, Steam VR, Oculus, and Vive, indicating that the game is available on these platforms."",
+  ""TrustWorthiness Rating"": ""Neutral"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/d2f5243d-0cc3-419d-ab15-4cf01f9eebba.jpeg,43856979,False,Nothing Phishy Here,,"The website in the image appears to be a login page for Quora, a well-known question-and-answer platform. It offers options for users to continue with Google, continue with Facebook, or sign up with an email. It includes typical elements such as a login form, sign-up options, and a footer with links to various pages like About, Languages, Careers, and more.",Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The website in the image appears to be a login page for Quora, a well-known question-and-answer platform. It offers options for users to continue with Google, continue with Facebook, or sign up with an email. It includes typical elements such as a login form, sign-up options, and a footer with links to various pages like About, Languages, Careers, and more."",
+  ""TrustWorthiness Rating"": ""Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/4db5ebfc-3d05-4240-a18d-5f5a97b7621e.jpeg,43856981,False,Nothing Phishy Here,,"The image shows a screenshot of a website page from 'MetaFilter', which is a community weblog. The URL is visible, and it begins with 'https', suggesting a secure connection. The website content looks to be a series of posts with comments, typical for a community blog platform.",Trustworthy,Neutral,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The image shows a screenshot of a website page from 'MetaFilter', which is a community weblog. The URL is visible, and it begins with 'https', suggesting a secure connection. The website content looks to be a series of posts with comments, typical for a community blog platform."",
+  ""TrustWorthiness Rating"": ""Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Neutral""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/14375e3c-d0ce-4731-847f-3535d5721ed3.jpeg,43856982,False,Nothing Phishy Here,,"The website image depicts a promotional offer encouraging users to sign up for something called 'Monthly Good' with an incentive of receiving '$25 to lend when you join today'. The URL in the address bar seems legitimate and corresponds to the recognized domain 'kiva.org', suggesting that this may be a genuine offer from the well-known micro-lending platform Kiva.",Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The website image depicts a promotional offer encouraging users to sign up for something called 'Monthly Good' with an incentive of receiving '$25 to lend when you join today'. The URL in the address bar seems legitimate and corresponds to the recognized domain 'kiva.org', suggesting that this may be a genuine offer from the well-known micro-lending platform Kiva."",
+  ""TrustWorthiness Rating"": ""Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/18efae90-a1d0-466a-81df-01276b1e3a9a.jpeg,43856984,False,Nothing Phishy Here,,"The website in the image appears to present itself as Disqus, which is a well-known comment hosting service. It features a clean design with a promotional message about new functionalities ('Reactions now available on Disqus'). The URL in the address bar shows 'https://disqus.com/' which aligns with the official Disqus domain.",Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The website in the image appears to present itself as Disqus, which is a well-known comment hosting service. It features a clean design with a promotional message about new functionalities ('Reactions now available on Disqus'). The URL in the address bar shows 'https://disqus.com/' which aligns with the official Disqus domain."",
+  ""TrustWorthiness Rating"": ""Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/919e5ba0-e86d-4925-8460-49d9e677ee74.jpeg,43856985,False,Nothing Phishy Here,,The website appears to be a community platform intended for neighbors to connect and share information within their neighborhood. It features a sign-up form where users can input their street address and email to join their neighborhood network.,Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The website appears to be a community platform intended for neighbors to connect and share information within their neighborhood. It features a sign-up form where users can input their street address and email to join their neighborhood network."",
+  ""TrustWorthiness Rating"": ""Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/25119afc-2620-49b9-85af-9ab3d6d13bf3.jpeg,43856987,False,Nothing Phishy Here,,"The image appears to be a screenshot of Patreon's official website. It promotes starting a membership business and includes endorsements from creators, suggesting a legitimate service for content creators and their fans.",Very Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The image appears to be a screenshot of Patreon's official website. It promotes starting a membership business and includes endorsements from creators, suggesting a legitimate service for content creators and their fans."",
+  ""TrustWorthiness Rating"": ""Very Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/45de76a0-a771-42ca-b605-8431e07d7bf9.jpeg,43856989,False,Nothing Phishy Here,,"The image depicts a professional-looking banking website interface for 'Five Points Bank.' It features a clean design with a navigation bar at the top, an area for logging in, various service categories such as Personal, Business, and Agriculture, and an award badge indicating a 5-star rating from Bauer Financial.",Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The image depicts a professional-looking banking website interface for 'Five Points Bank.' It features a clean design with a navigation bar at the top, an area for logging in, various service categories such as Personal, Business, and Agriculture, and an award badge indicating a 5-star rating from Bauer Financial."",
+  ""TrustWorthiness Rating"": ""Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/bd8e5b57-d2a0-4549-878f-e175abbabb61.jpeg,43856991,False,Nothing Phishy Here,,"The image displays a web page, presumably from the financial institution Chase, promoting an offer for new checking accounts. The URL contains 'chase.com', which is the legitimate domain for JPMorgan Chase Bank. The design appears professional with a clear call to action, proper use of the Chase brand, and without visible spelling or grammar errors.",Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The image displays a web page, presumably from the financial institution Chase, promoting an offer for new checking accounts. The URL contains 'chase.com', which is the legitimate domain for JPMorgan Chase Bank. The design appears professional with a clear call to action, proper use of the Chase brand, and without visible spelling or grammar errors."",
+  ""TrustWorthiness Rating"": ""Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/f4d3591f-cd26-41dd-86e1-4b151592592e.jpeg,43856993,False,Nothing Phishy Here,,"The website appears to be a banking website with options for personal and business banking, wealth management, and various other services. It includes a login panel, promotional sections, and a designation as one of the world's most ethical companies.",Very Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The website appears to be a banking website with options for personal and business banking, wealth management, and various other services. It includes a login panel, promotional sections, and a designation as one of the world's most ethical companies."",
+  ""TrustWorthiness Rating"": ""Very Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/dd1b390d-cf6c-4f78-a403-ab6db01b26d0.jpeg,43856994,False,Nothing Phishy Here,,"The website appears to represent a financial institution with a clean and professional layout. It includes areas for customers to sign in, information about a money market account, and useful links for customers regarding loan deferral and online banking.",Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The website appears to represent a financial institution with a clean and professional layout. It includes areas for customers to sign in, information about a money market account, and useful links for customers regarding loan deferral and online banking."",
+  ""TrustWorthiness Rating"": ""Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/c01c9941-e9fc-4812-a27f-a8dd8083d8f2.jpeg,43856996,False,Nothing Phishy Here,,"The website appears to be a banking site with options for various banking services like personal, agribusiness, business, and wealth management. It includes a login section for account access, and informational content about checking account options.",Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The website appears to be a banking site with options for various banking services like personal, agribusiness, business, and wealth management. It includes a login section for account access, and informational content about checking account options."",
+  ""TrustWorthiness Rating"": ""Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/95f897ee-bb92-439d-b086-505c09e2b240.jpeg,43856998,False,Nothing Phishy Here,,"The website appears to be a login page for Citi, which is a well-known banking and financial services corporation. It features a clean layout, organized content sections, and clear options to sign on or learn more about various financial products.",Very Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The website appears to be a login page for Citi, which is a well-known banking and financial services corporation. It features a clean layout, organized content sections, and clear options to sign on or learn more about various financial products."",
+  ""TrustWorthiness Rating"": ""Very Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/3f620017-fa6f-4d45-a6e5-461836b169f5.jpeg,43856999,False,Nothing Phishy Here,,"The website appears to be a legitimate banking website with sections for different banking services such as Personal, Business, Insights, and About, as well as a login portal for users.",Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The website appears to be a legitimate banking website with sections for different banking services such as Personal, Business, Insights, and About, as well as a login portal for users."",
+  ""TrustWorthiness Rating"": ""Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/9f4013d8-6f3b-493f-9276-f73ca2bdbf11.jpeg,43857001,False,Nothing Phishy Here,,"The website appears to be a legitimate banking website offering personal and business banking services, including a promotion for reduced mortgage rates. It includes navigation for different banking services, an online banking login section, and clearly displayed contact options.",Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The website appears to be a legitimate banking website offering personal and business banking services, including a promotion for reduced mortgage rates. It includes navigation for different banking services, an online banking login section, and clearly displayed contact options."",
+  ""TrustWorthiness Rating"": ""Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/66a67ce9-135c-41b4-bb11-39f51144c4a7.jpeg,43857003,False,Nothing Phishy Here,,"The webpage appears to represent a legitimate banking institution, with features typical of a bank website such as account login options, SBA loan information, and contact details.",Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The webpage appears to represent a legitimate banking institution, with features typical of a bank website such as account login options, SBA loan information, and contact details."",
+  ""TrustWorthiness Rating"": ""Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/aca16a7c-5f18-447f-a463-d0a4e0f95c36.jpeg,43857005,False,Nothing Phishy Here,,"The website appears to be a banking site offering personal and business banking services, including information on health savings accounts and credit cards. It includes a login area for online banking, along with informational sections about various bank services.",Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The website appears to be a banking site offering personal and business banking services, including information on health savings accounts and credit cards. It includes a login area for online banking, along with informational sections about various bank services."",
+  ""TrustWorthiness Rating"": ""Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/b12d042b-5898-459c-b9ff-b2ce893b06ff.jpeg,43857007,False,Nothing Phishy Here,,"The image appears to be a screenshot of the official website of the U.S. Department of State. It has a valid-looking URL, the design and layout are professional, and the content seems appropriate for such a website.",Very Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The image appears to be a screenshot of the official website of the U.S. Department of State. It has a valid-looking URL, the design and layout are professional, and the content seems appropriate for such a website."",
+  ""TrustWorthiness Rating"": ""Very Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/c92b414b-8704-4bc6-a9bf-4d6568b38171.jpeg,43857009,False,Nothing Phishy Here,,"The screenshot appears to be of the official website for the United States Department of Justice, showing a news section with various articles and links to other pages and resources.",Very Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The screenshot appears to be of the official website for the United States Department of Justice, showing a news section with various articles and links to other pages and resources."",
+  ""TrustWorthiness Rating"": ""Very Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/61ddec51-63b0-4ad9-b318-201eaea5b52c.jpeg,43857010,False,Nothing Phishy Here,,"The image appears to be a screenshot of the U.S. Department of the Treasury's official website, featuring news, announcements, and information pertinent to the activities of the Treasury.",Very Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The image appears to be a screenshot of the U.S. Department of the Treasury's official website, featuring news, announcements, and information pertinent to the activities of the Treasury."",
+  ""TrustWorthiness Rating"": ""Very Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/92bb3ef0-cc8f-4388-9127-36ccd8987404.jpeg,43857012,False,Nothing Phishy Here,,"The website appears to be an official government website, representing the U.S. Department of Health & Human Services (HHS). It includes sections such as About HHS, Programs & Services, Grants & Contracts, Laws & Regulations, and various news and blog updates. There are also options to connect with social media accounts and sign up for email updates, along with contact information for HHS headquarters.",Very Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The website appears to be an official government website, representing the U.S. Department of Health & Human Services (HHS). It includes sections such as About HHS, Programs & Services, Grants & Contracts, Laws & Regulations, and various news and blog updates. There are also options to connect with social media accounts and sign up for email updates, along with contact information for HHS headquarters."",
+  ""TrustWorthiness Rating"": ""Very Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/935d8dca-03a4-4929-b1fb-263a5516edc9.jpeg,43857014,False,Nothing Phishy Here,,"The image appears to be a screenshot from an official government website, specifically the U.S. Department of Veterans Affairs. It features information and links related to VA benefits and health care, such as healthcare, education, disability, and records.",Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The image appears to be a screenshot from an official government website, specifically the U.S. Department of Veterans Affairs. It features information and links related to VA benefits and health care, such as healthcare, education, disability, and records."",
+  ""TrustWorthiness Rating"": ""Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/8de6fa5e-2365-46df-a112-80159b4b8aea.jpeg,43857015,False,Nothing Phishy Here,,"The image appears to be a screenshot of the official website of the U.S. Department of Labor, featuring a clean design, navigation menu, a search bar, and content related to labor statistics and news.",Very Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The image appears to be a screenshot of the official website of the U.S. Department of Labor, featuring a clean design, navigation menu, a search bar, and content related to labor statistics and news."",
+  ""TrustWorthiness Rating"": ""Very Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/e7138bb8-9b80-4987-915d-9ad113ee5500.jpeg,43857017,False,Nothing Phishy Here,,"The website appears to be a legitimate page from the Department of Homeland Security, discussing holiday online shopping safety. The page includes an official logo, has a professional design, and the domain 'dhs.gov' is a valid domain for the Department of Homeland Security.",Very Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The website appears to be a legitimate page from the Department of Homeland Security, discussing holiday online shopping safety. The page includes an official logo, has a professional design, and the domain 'dhs.gov' is a valid domain for the Department of Homeland Security."",
+  ""TrustWorthiness Rating"": ""Very Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/06559051-e2f8-41f5-8d7f-13e7e5baa540.jpeg,43857019,False,Nothing Phishy Here,,"The website appears to be the official page of the U.S. Department of Education, offering information on student loans, grants, laws, data, and departmental updates.",Very Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The website appears to be the official page of the U.S. Department of Education, offering information on student loans, grants, laws, data, and departmental updates."",
+  ""TrustWorthiness Rating"": ""Very Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/7c99e204-9b73-4641-a228-b860d732853d.jpeg,43857020,False,Nothing Phishy Here,,"The image appears to be a screenshot of a website that relates to Social Security, with options available for online services, disability, retirement, Medicare enrollment, and more. The design layout is clean and organized, with official-looking logos and branding consistent with what would be expected from a U.S. government-associated website.",Very Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The image appears to be a screenshot of a website that relates to Social Security, with options available for online services, disability, retirement, Medicare enrollment, and more. The design layout is clean and organized, with official-looking logos and branding consistent with what would be expected from a U.S. government-associated website."",
+  ""TrustWorthiness Rating"": ""Very Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/1afb0501-6747-42ab-ba71-acec893be255.jpeg,43857022,False,Nothing Phishy Here,,"The website appears to be a screenshot of the Centers for Disease Control and Prevention (CDC) official homepage, featuring various health-related news stories and announcements.",Very Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The website appears to be a screenshot of the Centers for Disease Control and Prevention (CDC) official homepage, featuring various health-related news stories and announcements."",
+  ""TrustWorthiness Rating"": ""Very Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/ce51d9f3-f5fd-4ccd-9558-178c01bc856d.jpeg,43857023,False,Nothing Phishy Here,,"The image appears to be a screenshot of a government website for HUD (Housing and Urban Development). It features a navigation bar, news articles, and a featured story about a White House opportunity and revitalization council.",Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The image appears to be a screenshot of a government website for HUD (Housing and Urban Development). It features a navigation bar, news articles, and a featured story about a White House opportunity and revitalization council."",
+  ""TrustWorthiness Rating"": ""Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/6ea758f5-914a-48fe-9b5a-a16ea8ab6e01.jpeg,43857025,False,Nothing Phishy Here,,"The website appears to be an official U.S. Census Bureau page, featuring a professional layout, high-quality images, relevant information, and secure HTTPS protocol in the URL.",Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The website appears to be an official U.S. Census Bureau page, featuring a professional layout, high-quality images, relevant information, and secure HTTPS protocol in the URL."",
+  ""TrustWorthiness Rating"": ""Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/860e1d93-777d-4632-b90e-f7131cdb56c2.jpeg,43857027,False,Nothing Phishy Here,,"The image appears to depict a professional website, presumably for the FBI, based on the prominent display of the FBI logo and the type of content presented, such as news headlines and job postings. The URL visible in the address bar suggests it is the official FBI site. There are no overt misspellings, poor grammar, or other obvious indicators of phishing.",Very Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The image appears to depict a professional website, presumably for the FBI, based on the prominent display of the FBI logo and the type of content presented, such as news headlines and job postings. The URL visible in the address bar suggests it is the official FBI site. There are no overt misspellings, poor grammar, or other obvious indicators of phishing."",
+  ""TrustWorthiness Rating"": ""Very Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/f6a75b51-ad61-4587-b74d-7f6e78e8ebc1.jpeg,43857029,False,Nothing Phishy Here,,"The image appears to be a screenshot of a webpage from GOV.UK, specifically a page belonging to the Ministry of Justice. It shows a standard UK Government website layout with a search bar, navigation options, and featured content, including text about the Queen's Speech from December 2019.",Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The image appears to be a screenshot of a webpage from GOV.UK, specifically a page belonging to the Ministry of Justice. It shows a standard UK Government website layout with a search bar, navigation options, and featured content, including text about the Queen's Speech from December 2019."",
+  ""TrustWorthiness Rating"": ""Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/3b08cd31-1027-4174-9f0e-32e624b1d56b.jpeg,43857030,False,Nothing Phishy Here,,"The website appears to be an official page for the U.S. Securities and Exchange Commission, featuring a navigation bar with various sections such as About, Divisions & Offices, Enforcement, and more. It also showcases an area dedicated to 'Building Communities' with a description of how the SEC supports municipal securities markets.",Very Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The website appears to be an official page for the U.S. Securities and Exchange Commission, featuring a navigation bar with various sections such as About, Divisions & Offices, Enforcement, and more. It also showcases an area dedicated to 'Building Communities' with a description of how the SEC supports municipal securities markets."",
+  ""TrustWorthiness Rating"": ""Very Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/c46879e8-cf52-43ef-93c7-878662640d11.jpeg,43857032,False,Nothing Phishy Here,,"The website appears to be the official site for USPS (United States Postal Service), offering services like tracking packages, Click-N-Ship, stamps & supplies, and featured USPS products & services.",Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The website appears to be the official site for USPS (United States Postal Service), offering services like tracking packages, Click-N-Ship, stamps & supplies, and featured USPS products & services."",
+  ""TrustWorthiness Rating"": ""Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/1f6a1a4d-cc2f-4e70-ae46-984a3a5e0aa2.jpeg,43857033,False,Nothing Phishy Here,,"The website appears to be a police-related site, providing options such as reporting an incident, telling about a situation, applying or registering for something, making requests, and providing feedback. There is also a section about crime statistics and activities in the user's area. A secure https:// protocol is visible in the URL bar along with a domain that could correspond to an official police service website in the UK.",Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The website appears to be a police-related site, providing options such as reporting an incident, telling about a situation, applying or registering for something, making requests, and providing feedback. There is also a section about crime statistics and activities in the user's area. A secure https:// protocol is visible in the URL bar along with a domain that could correspond to an official police service website in the UK."",
+  ""TrustWorthiness Rating"": ""Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/24ee1339-8678-4ffb-91fd-fc58e3e6ef92.jpeg,43857035,False,Nothing Phishy Here,,"The image appears to be a screenshot of a website, presumably the Federal Emergency Management Agency (FEMA) official website. It shows a navigation bar, search functionality, and language options. The content includes a Happy New Year message, a prompt to download a preparedness calendar, links to travel tips, publications, podcasts, and talks related to emergency management and preparedness. The visual design of the page, including the official FEMA logo, lends itself to the appearance of a legitimate government site.",Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The image appears to be a screenshot of a website, presumably the Federal Emergency Management Agency (FEMA) official website. It shows a navigation bar, search functionality, and language options. The content includes a Happy New Year message, a prompt to download a preparedness calendar, links to travel tips, publications, podcasts, and talks related to emergency management and preparedness. The visual design of the page, including the official FEMA logo, lends itself to the appearance of a legitimate government site."",
+  ""TrustWorthiness Rating"": ""Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/ca9bcd0f-62b0-43e9-9cc7-52a9b17610d4.jpeg,43857037,False,Nothing Phishy Here,,"The website appears to be a legitimate and professionally designed site for the National Science Foundation, with sections for research areas, funding, awards, document library, and news. The presence of a secure HTTPS protocol and a proper domain (nsf.gov) is indicative of an official government website.",Very Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The website appears to be a legitimate and professionally designed site for the National Science Foundation, with sections for research areas, funding, awards, document library, and news. The presence of a secure HTTPS protocol and a proper domain (nsf.gov) is indicative of an official government website."",
+  ""TrustWorthiness Rating"": ""Very Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/87de136e-d2bb-4540-9166-6b6b47a55715.jpeg,43857038,False,Nothing Phishy Here,,"The image displays what appears to be an official government website for the National Labor Relations Board (NLRB). The site features a clear and professional design, with a navigation menu at the top, a search bar, and several sections providing information and resources. There is also a banner at the top with the organization's logo, indicating its official nature.",Very Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The image displays what appears to be an official government website for the National Labor Relations Board (NLRB). The site features a clear and professional design, with a navigation menu at the top, a search bar, and several sections providing information and resources. There is also a banner at the top with the organization's logo, indicating its official nature."",
+  ""TrustWorthiness Rating"": ""Very Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/a4066ba3-3267-4191-aaf3-5042eb500e5e.jpeg,43857040,False,Nothing Phishy Here,,"The image appears to show a government website with statistics about employment rates. It features a clean design with the GOV.UK header, indicating it's a UK government site.",Very Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The image appears to show a government website with statistics about employment rates. It features a clean design with the GOV.UK header, indicating it's a UK government site."",
+  ""TrustWorthiness Rating"": ""Very Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/6a0e287d-9c14-4f67-8f9f-390ac83e5168.jpeg,43857041,False,Nothing Phishy Here,,"The website appears to be for a business called Midlands Messenger Service, Inc., offering messenger and delivery services in specific areas. The webpage displayed includes business hours, contact numbers, and a brief description of services and company mission.",Neutral,Visually Unattractive or Unappealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The website appears to be for a business called Midlands Messenger Service, Inc., offering messenger and delivery services in specific areas. The webpage displayed includes business hours, contact numbers, and a brief description of services and company mission."",
+  ""TrustWorthiness Rating"": ""Neutral"",
+  ""Visual Attractiveness Rating"": ""Visually Unattractive or Unappealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/1f6f5902-99f2-4af5-ac73-ce085604e94f.jpeg,43857043,False,Nothing Phishy Here,,"The website displayed in the image appears to be a professional corporate website for a freight carrier service. It includes functionalities such as tracking a shipment, finding a route, getting a quote, and requesting a pickup. There is also an employment call-to-action with 'DRIVERS WANTED, APPLY NOW!' which is typical of company pages looking to recruit new employees.",Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The website displayed in the image appears to be a professional corporate website for a freight carrier service. It includes functionalities such as tracking a shipment, finding a route, getting a quote, and requesting a pickup. There is also an employment call-to-action with 'DRIVERS WANTED, APPLY NOW!' which is typical of company pages looking to recruit new employees."",
+  ""TrustWorthiness Rating"": ""Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/cc4d25be-550d-4b51-8bcb-c7a5afe8f901.jpeg,43857045,False,Nothing Phishy Here,,"The image appears to be of a legitimate FedEx website. The design looks professional, with a clean layout and high-quality images. It features branding elements consistent with the FedEx corporate style, offers tracking capabilities, branded colors, and clear navigation options.",Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The image appears to be of a legitimate FedEx website. The design looks professional, with a clean layout and high-quality images. It features branding elements consistent with the FedEx corporate style, offers tracking capabilities, branded colors, and clear navigation options."",
+  ""TrustWorthiness Rating"": ""Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/3341ba83-3973-47e8-8297-daa63b72b3c6.jpeg,43857047,False,Nothing Phishy Here,,"The website appears to be for a business called Postal Zone that offers shipping and related services such as document shredding, notary public, mailbox rental, and hard drive destruction. The website lists a physical business address, a phone number, and a schedule for pick-ups from carriers like UPS, FedEx, and DHL.",Neutral,Neutral,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The website appears to be for a business called Postal Zone that offers shipping and related services such as document shredding, notary public, mailbox rental, and hard drive destruction. The website lists a physical business address, a phone number, and a schedule for pick-ups from carriers like UPS, FedEx, and DHL."",
+  ""TrustWorthiness Rating"": ""Neutral"",
+  ""Visual Attractiveness Rating"": ""Neutral""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/d96306c9-7f9d-45df-8071-20d7db336550.jpeg,43857048,False,Nothing Phishy Here,,"The image shows a screenshot of a delivery company's website, featuring a delivery person with a blurred face with the company name on their shirt, information about their services, and contact details.",Neutral,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The image shows a screenshot of a delivery company's website, featuring a delivery person with a blurred face with the company name on their shirt, information about their services, and contact details."",
+  ""TrustWorthiness Rating"": ""Neutral"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/9f0f3f2a-36d6-4cd7-9235-7a567fdb80d0.jpeg,43857050,False,Nothing Phishy Here,,"The website appears to be a professional business page for a company named 'Craters & Freighters Omaha' offering expert crating and logistics services. The page includes a navigation menu, a contact phone number, a request quote button, and a business address, suggesting a legitimate business presence.",Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The website appears to be a professional business page for a company named 'Craters & Freighters Omaha' offering expert crating and logistics services. The page includes a navigation menu, a contact phone number, a request quote button, and a business address, suggesting a legitimate business presence."",
+  ""TrustWorthiness Rating"": ""Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/cdd9b04c-b6b5-4552-b4b1-7d55aadc5754.jpeg,43857052,False,Nothing Phishy Here,,"The website looks like a legitimate business page for 'MJ Express', a courier company in Omaha, NE. It contains information about the services they offer, contact information, and a request for a free quote.",Neutral,Neutral,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The website looks like a legitimate business page for 'MJ Express', a courier company in Omaha, NE. It contains information about the services they offer, contact information, and a request for a free quote."",
+  ""Trustworthiness Rating"": ""Neutral"",
+  ""Visual Attractiveness Rating"": ""Neutral""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/79f978fa-3a9b-4197-99f2-26d665a0f95c.jpeg,43857054,False,Nothing Phishy Here,,"The website in the image appears to be a legitimate page for a company 'HotShot Deliveries Inc' with a specific location in Omaha, Nebraska, listing contact details and operating hours, including a mention of Omaha as an Freight Force authorized motor carrier terminal.",Neutral,Neutral,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The website in the image appears to be a legitimate page for a company 'HotShot Deliveries Inc' with a specific location in Omaha, Nebraska, listing contact details and operating hours, including a mention of Omaha as an Freight Force authorized motor carrier terminal."",
+  ""TrustWorthiness Rating"": ""Neutral"",
+  ""Visual Attractiveness Rating"": ""Neutral""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/d6059245-4609-410e-9015-87fa7f597939.jpeg,43857055,False,Nothing Phishy Here,,"The website appears to be a professional delivery service with options for tracking a shipment, calculating shipping costs, and finding a location. It includes graphics consistent with shipping and logistics themes and offers customer service contact options.",Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The website appears to be a professional delivery service with options for tracking a shipment, calculating shipping costs, and finding a location. It includes graphics consistent with shipping and logistics themes and offers customer service contact options."",
+  ""TrustWorthiness Rating"": ""Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/1df3cd9d-8870-4c91-aa48-75162d13f97d.jpeg,43857057,False,Nothing Phishy Here,,"The website appears to be a professional page for DHL, showcasing the company's logistics services with a clear layout, vibrant imagery, and branded color scheme.",Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The website appears to be a professional page for DHL, showcasing the company's logistics services with a clear layout, vibrant imagery, and branded color scheme."",
+  ""TrustWorthiness Rating"": ""Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/bbd60145-5486-456e-b18f-c8ad412e24fb.png,43857060,True,Something's Phishy,Invalid Domain or Sender Appeal to Action - Urgency,"The website presents itself as a login page for Box, a cloud content management service, asking for the user's email address with a message about account deletion if not confirmed in 24 hours.",Untrustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Something's Phishy"",
+  ""Present Cue Types"": [
+    ""Invalid Domain or Sender"",
+    ""Appeal to Action - Urgency""
+  ],
+  ""Website Description"": ""The website presents itself as a login page for Box, a cloud content management service, asking for the user's email address with a message about account deletion if not confirmed in 24 hours."",
+  ""TrustWorthiness Rating"": ""Untrustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/3e47307a-e133-4f31-887a-74646b6b152a.png,43857061,True,Something's Phishy,Invalid Domain or Sender,"The image shows a web page that is designed to resemble the Craigslist classified ads website. It features a range of categories for community, housing, jobs, services, for sale items, and more.",Untrustworthy,Visually Unattractive or Unappealing,"```json
+{
+  ""Findings"": ""Something's Phishy"",
+  ""Present Cue Types"": [
+    ""Invalid Domain or Sender""
+  ],
+  ""Website Description"": ""The image shows a web page that is designed to resemble the Craigslist classified ads website. It features a range of categories for community, housing, jobs, services, for sale items, and more."",
+  ""TrustWorthiness Rating"": ""Untrustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Unattractive or Unappealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/fcbd66a6-edd3-4477-859c-19916e09ec6c.png,43857063,True,Nothing Phishy Here,,"The image appears to be a screenshot of an email from Discover notifying a customer that their online statement is available. It resembles a standard financial email notification with a user interface typical of emails viewed through a web client, in this case, Gmail.",Very Trustworthy,Neutral,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The image appears to be a screenshot of an email from Discover notifying a customer that their online statement is available. It resembles a standard financial email notification with a user interface typical of emails viewed through a web client, in this case, Gmail."",
+  ""TrustWorthiness Rating"": ""Very Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Neutral""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/7aedef6f-7f04-4b09-b034-8b295090b081.png,43857064,True,Something's Phishy,Invalid Domain or Sender Appeal to Action - Urgency Potentially Malicious Link,The image appears to show an email purportedly from Dropbox with an urgent call to action inviting the recipient to edit a folder labeled '2018 Scanned Financial Reports DUE TODAY!!!'. There is a button labeled 'Go to folder'.,Untrustworthy,Neutral,"```json
+{
+  ""Findings"": ""Something's Phishy"",
+  ""Present Cue Types"": [
+    ""Invalid Domain or Sender"",
+    ""Appeal to Action - Urgency"",
+    ""Potentially Malicious Link""
+  ],
+  ""Website Description"": ""The image appears to show an email purportedly from Dropbox with an urgent call to action inviting the recipient to edit a folder labeled '2018 Scanned Financial Reports DUE TODAY!!!'. There is a button labeled 'Go to folder'."",
+  ""TrustWorthiness Rating"": ""Untrustworthy"",
+  ""Visual Attractiveness Rating"": ""Neutral""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/87382375-407a-48ab-bc71-23ad441cc9e6.png,43857066,True,Something's Phishy,Invalid Domain or Sender,"The image displays a webpage that is designed to look like a sign-in page for eBay, including a logo and sign-in form fields for an email or username and password.",Untrustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Something's Phishy"",
+  ""Present Cue Types"": [
+    ""Invalid Domain or Sender""
+  ],
+  ""Website Description"": ""The image displays a webpage that is designed to look like a sign-in page for eBay, including a logo and sign-in form fields for an email or username and password."",
+  ""TrustWorthiness Rating"": ""Untrustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/79ba4382-37e6-41d6-813c-a9674a62185b.png,43857067,False,Something's Phishy,Potentially Malicious Link Appeal to Action - Authority,"The image appears to show a screenshot of an email received in a Gmail interface, notifying the user of an 'Email Delivery Failure' and prompting to follow a link for more information.",Untrustworthy,Neutral,"```json
+{
+  ""Findings"": ""Something's Phishy"",
+  ""Present Cue Types"": [
+    ""Potentially Malicious Link"",
+    ""Appeal to Action - Authority""
+  ],
+  ""Website Description"": ""The image appears to show a screenshot of an email received in a Gmail interface, notifying the user of an 'Email Delivery Failure' and prompting to follow a link for more information."",
+  ""TrustWorthiness Rating"": ""Untrustworthy"",
+  ""Visual Attractiveness Rating"": ""Neutral""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/860ba107-bf3b-4547-adb3-dff72b989f06.png,43857069,True,Something's Phishy,Invalid Domain or Sender Poor Spelling or Grammar Appeal to Action - Urgency Potentially Malicious Link,"The image displays what appears to be a screenshot of an email with a FedEx notification claiming that a package could not be delivered. The sender's domain and the link provided do not seem to match official FedEx domains, which typically ends in fedex.com.",Very Untrustworthy,Neutral,"```json
+{
+  ""Findings"": ""Something's Phishy"",
+  ""Present Cue Types"": [
+    ""Invalid Domain or Sender"",
+    ""Poor Spelling or Grammar"",
+    ""Appeal to Action - Urgency"",
+    ""Potentially Malicious Link""
+  ],
+  ""Website Description"": ""The image displays what appears to be a screenshot of an email with a FedEx notification claiming that a package could not be delivered. The sender's domain and the link provided do not seem to match official FedEx domains, which typically ends in fedex.com."",
+  ""TrustWorthiness Rating"": ""Very Untrustworthy"",
+  ""Visual Attractiveness Rating"": ""Neutral""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/8a852497-fcb8-4ec2-ba34-7abf73fa85ab.png,43857071,False,Nothing Phishy Here,,"The image appears to be a screenshot of an email from an eyewear company advertising a 30% off sale with an urgency cue stating it expires within 24 hours. The email design is clean and professional, with product images, a concise layout, customer service options, and a footer with additional company information and social media links.",Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The image appears to be a screenshot of an email from an eyewear company advertising a 30% off sale with an urgency cue stating it expires within 24 hours. The email design is clean and professional, with product images, a concise layout, customer service options, and a footer with additional company information and social media links."",
+  ""TrustWorthiness Rating"": ""Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/4058536b-99e0-4984-9369-b18554d5528d.png,43857072,False,Something's Phishy,Invalid Domain or Sender Potentially Malicious Link Other Phishy Findings,The image shows what appears to be an email in a Gmail interface reporting a delivery failure. It includes a suspicious link urging the recipient to click for more details.,Untrustworthy,Neutral,"```json
+{
+  ""Findings"": ""Something's Phishy"",
+  ""Present Cue Types"": [
+    ""Invalid Domain or Sender"",
+    ""Potentially Malicious Link"",
+    ""Other Phishy Findings""
+  ],
+  ""Website Description"": ""The image shows what appears to be an email in a Gmail interface reporting a delivery failure. It includes a suspicious link urging the recipient to click for more details."",
+  ""TrustWorthiness Rating"": ""Untrustworthy"",
+  ""Visual Attractiveness Rating"": ""Neutral""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/3c006e31-8b93-44ec-b52c-c1f17eb030b2.png,43857074,True,Something's Phishy,Invalid Domain or Sender Appeal to Action - Authority Potentially Malicious Link Other Phishy Findings,The image appears to show an email presented as being from the IRS. The email suggests there is a problem with the recipient's account information and urges them to verify this information by following a provided link to file their tax refund.,Very Untrustworthy,Neutral,"```json
+{
+  ""Findings"": ""Something's Phishy"",
+  ""Present Cue Types"": [
+    ""Invalid Domain or Sender"",
+    ""Appeal to Action - Authority"",
+    ""Potentially Malicious Link"",
+    ""Other Phishy Findings""
+  ],
+  ""Website Description"": ""The image appears to show an email presented as being from the IRS. The email suggests there is a problem with the recipient's account information and urges them to verify this information by following a provided link to file their tax refund."",
+  ""TrustWorthiness Rating"": ""Very Untrustworthy"",
+  ""Visual Attractiveness Rating"": ""Neutral""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/e25d7f24-6c9c-47e2-9c8e-15a1c2377830.png,43857076,False,Nothing Phishy Here,,"The image appears to be a screenshot of the official Facebook Messenger login web page. It portrays a clean, well-organized design with familiar branding and visual elements that are consistent with Facebook's official style.",Very Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The image appears to be a screenshot of the official Facebook Messenger login web page. It portrays a clean, well-organized design with familiar branding and visual elements that are consistent with Facebook's official style."",
+  ""Trustworthiness Rating"": ""Very Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/4b8af99a-d79d-4c80-8a11-3a2770bbc468.png,43857077,False,Nothing Phishy Here,,"The website appears to be a login page for Newsweek, a well-known publication.",Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The website appears to be a login page for Newsweek, a well-known publication."",
+  ""TrustWorthiness Rating"": ""Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/121a9d51-b9e3-4b62-84c9-83896ce391ee.png,43857079,True,Something's Phishy,Invalid Domain or Sender,The website appears to be a login page for PayPal with fields for entering an email or phone number. It features PayPal branding and a minimalist design.,Untrustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Something's Phishy"",
+  ""Present Cue Types"": [
+    ""Invalid Domain or Sender""
+  ],
+  ""Website Description"": ""The website appears to be a login page for PayPal with fields for entering an email or phone number. It features PayPal branding and a minimalist design."",
+  ""TrustWorthiness Rating"": ""Untrustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/3dacaf51-65a0-445b-9933-7173cc6772dc.png,43857080,False,Nothing Phishy Here,,The image appears to be a screenshot of a webpage from the official Snapchat domain offering the option to send a download link to a phone. It has a clear and simple layout with a recognizable Snapchat logo and color scheme.,Very Trustworthy,Neutral,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The image appears to be a screenshot of a webpage from the official Snapchat domain offering the option to send a download link to a phone. It has a clear and simple layout with a recognizable Snapchat logo and color scheme."",
+  ""TrustWorthiness Rating"": ""Very Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Neutral""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/6e9f70ea-acc6-43c9-b4c2-bf21b9cd03b4.png,43857081,True,Something's Phishy,Invalid Domain or Sender Potentially Malicious Link,"The image appears to show a screenshot of an email, claiming to be an invoice from Sprint. It features typical elements of a structured email, such as a header, a message body, and a footer, along with some formatting and logos intended to mimic corporate branding.",Untrustworthy,Neutral,"```json
+{
+  ""Findings"": ""Something's Phishy"",
+  ""Present Cue Types"": [
+    ""Invalid Domain or Sender"",
+    ""Potentially Malicious Link""
+  ],
+  ""Website Description"": ""The image appears to show a screenshot of an email, claiming to be an invoice from Sprint. It features typical elements of a structured email, such as a header, a message body, and a footer, along with some formatting and logos intended to mimic corporate branding."",
+  ""TrustWorthiness Rating"": ""Untrustworthy"",
+  ""Visual Attractiveness Rating"": ""Neutral""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/fbaa9aa1-dcdb-492b-bb63-ca676081d7f2.png,43857083,False,Something's Phishy,Invalid Domain or Sender Potentially Malicious Link,"The image appears to be a screenshot of an email, allegedly from Sprint, viewed through a Gmail interface. The email contains Sprint branding and claims to present the viewer's monthly bill.",Untrustworthy,Neutral,"```json
+{
+  ""Findings"": ""Something's Phishy"",
+  ""Present Cue Types"": [
+    ""Invalid Domain or Sender"",
+    ""Potentially Malicious Link""
+  ],
+  ""Website Description"": ""The image appears to be a screenshot of an email, allegedly from Sprint, viewed through a Gmail interface. The email contains Sprint branding and claims to present the viewer's monthly bill."",
+  ""Trustworthiness Rating"": ""Untrustworthy"",
+  ""Visual Attractiveness Rating"": ""Neutral""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/473fe960-5ccd-4def-a44e-50e905ae3921.png,43857084,False,Nothing Phishy Here,,This appears to be a screenshot of a Google Gmail security alert notifying the user of a new device signing in to their account. The layout mimics the typical design of Gmail with a security alert message in the center of the page.,Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""This appears to be a screenshot of a Google Gmail security alert notifying the user of a new device signing in to their account. The layout mimics the typical design of Gmail with a security alert message in the center of the page."",
+  ""TrustWorthiness Rating"": ""Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/d08ce74d-b29f-4d64-9447-360339f71862.png,43857086,True,Something's Phishy,Invalid Domain or Sender Potentially Malicious Link Other Phishy Findings,"The image shows an email interface resembling Gmail, stating that an email failed to send because an attachment exceeded the maximum file size.",Untrustworthy,Neutral,"```json
+{
+  ""Findings"": ""Something's Phishy"",
+  ""Present Cue Types"": [
+    ""Invalid Domain or Sender"",
+    ""Potentially Malicious Link"",
+    ""Other Phishy Findings""
+  ],
+  ""Website Description"": ""The image shows an email interface resembling Gmail, stating that an email failed to send because an attachment exceeded the maximum file size."",
+  ""TrustWorthiness Rating"": ""Untrustworthy"",
+  ""Visual Attractiveness Rating"": ""Neutral""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/bc8ba6b5-46f9-482a-86ab-742cfa0d8e90.png,43857087,True,Something's Phishy,Invalid Domain or Sender Other Phishy Findings,"The image appears to be a login page for The Wall Street Journal, with fields for email or username and password. It also offers sign-in options through Facebook and Google.",Untrustworthy,Neutral,"```json
+{
+  ""Findings"": ""Something's Phishy"",
+  ""Present Cue Types"": [
+    ""Invalid Domain or Sender"",
+    ""Other Phishy Findings""
+  ],
+  ""Website Description"": ""The image appears to be a login page for The Wall Street Journal, with fields for email or username and password. It also offers sign-in options through Facebook and Google."",
+  ""TrustWorthiness Rating"": ""Untrustworthy"",
+  ""Visual Attractiveness Rating"": ""Neutral""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/72b87396-e437-4afb-a6bc-2059bc14fc8f.png,43857089,True,Nothing Phishy Here,,"The image appears to be a screenshot of an email received from Tumblr, informing the recipient about the need to confirm their account to preserve their existing username due to inactivity. The email looks like it is viewed through Gmail's web interface.",Neutral,Neutral,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The image appears to be a screenshot of an email received from Tumblr, informing the recipient about the need to confirm their account to preserve their existing username due to inactivity. The email looks like it is viewed through Gmail's web interface."",
+  ""TrustWorthiness Rating"": ""Neutral"",
+  ""Visual Attractiveness Rating"": ""Neutral""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/042b7f6e-f320-4a2b-91e9-b9d39d70004f.png,43857090,False,Nothing Phishy Here,,"The webpage image is showing an open email in Gmail, which appears to be a message from 'Twitter' asking the recipient to confirm their Twitter account by clicking a 'Confirm now' button.",Very Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The webpage image is showing an open email in Gmail, which appears to be a message from 'Twitter' asking the recipient to confirm their Twitter account by clicking a 'Confirm now' button."",
+  ""TrustWorthiness Rating"": ""Very Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/7c3b7745-d993-4f53-a9f4-32e3fb6f965b.png,43857092,False,Something's Phishy,Invalid Domain or Sender Potentially Malicious Link Other Phishy Findings,"The image shows an email interface, presumably from Gmail, displaying an email regarding a W2 Program Notification.",Untrustworthy,Neutral,"```json
+{
+  ""Findings"": ""Something's Phishy"",
+  ""Present Cue Types"": [
+    ""Invalid Domain or Sender"",
+    ""Potentially Malicious Link"",
+    ""Other Phishy Findings""
+  ],
+  ""Website Description"": ""The image shows an email interface, presumably from Gmail, displaying an email regarding a W2 Program Notification."",
+  ""TrustWorthiness Rating"": ""Untrustworthy"",
+  ""Visual Attractiveness Rating"": ""Neutral""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/84080949-22bd-4bb4-bb2a-cb3368a7c479.png,43857093,False,Something's Phishy,Invalid Domain or Sender Appeal to Action - Urgency Potentially Malicious Link,The image shows what appears to be an email from UPS regarding a failed package delivery. The email contains a tracking number and instructs the recipient to contact their local UPS office or risk the parcel being returned to the sender.,Untrustworthy,Neutral,"```json
+{
+  ""Findings"": ""Something's Phishy"",
+  ""Present Cue Types"": [
+    ""Invalid Domain or Sender"",
+    ""Appeal to Action - Urgency"",
+    ""Potentially Malicious Link""
+  ],
+  ""Website Description"": ""The image shows what appears to be an email from UPS regarding a failed package delivery. The email contains a tracking number and instructs the recipient to contact their local UPS office or risk the parcel being returned to the sender."",
+  ""TrustWorthiness Rating"": ""Untrustworthy"",
+  ""Visual Attractiveness Rating"": ""Neutral""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/1056e670-797c-48be-a029-65b7ac6b433a.png,43857095,True,Something's Phishy,Invalid Domain or Sender Poor Spelling or Grammar Appeal to Action - Urgency Potentially Malicious Link,This image appears to be a screenshot of an email purportedly from the United States Postal Service (USPS) informing the recipient of a package delivery failure.,Untrustworthy,Neutral,"```json
+{
+  ""Findings"": ""Something's Phishy"",
+  ""Present Cue Types"": [
+    ""Invalid Domain or Sender"",
+    ""Poor Spelling or Grammar"",
+    ""Appeal to Action - Urgency"",
+    ""Potentially Malicious Link""
+  ],
+  ""Website Description"": ""This image appears to be a screenshot of an email purportedly from the United States Postal Service (USPS) informing the recipient of a package delivery failure."",
+  ""TrustWorthiness Rating"": ""Untrustworthy"",
+  ""Visual Attractiveness Rating"": ""Neutral""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/081e30ae-8f6c-486e-baf0-edb6de6224d2.png,43857096,True,Something's Phishy,Invalid Domain or Sender Appeal to Action - Urgency Potentially Malicious Link,"The image shows a Gmail interface with an open email that claims to be from the USPS regarding a package delivery failure. The sender's email address appears to be suspicious, and there is a link for the recipient to claim their package.",Untrustworthy,Neutral,"```json
+{
+  ""Findings"": ""Something's Phishy"",
+  ""Present Cue Types"": [
+    ""Invalid Domain or Sender"",
+    ""Appeal to Action - Urgency"",
+    ""Potentially Malicious Link""
+  ],
+  ""Website Description"": ""The image shows a Gmail interface with an open email that claims to be from the USPS regarding a package delivery failure. The sender's email address appears to be suspicious, and there is a link for the recipient to claim their package."",
+  ""TrustWorthiness Rating"": ""Untrustworthy"",
+  ""Visual Attractiveness Rating"": ""Neutral""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/434be236-86f1-4fb0-9f0d-ec996ee70b05.png,43857098,False,Something's Phishy,Appeal to Action - Authority Potentially Malicious Link Other Phishy Findings,The image depicts an email supposedly from Vanguard with a message instructing the recipient to log in to their account to view an important bank message. The email layout appears like a basic template used by email clients with a message section in the middle.,Untrustworthy,Neutral,"```json
+{
+  ""Findings"": ""Something's Phishy"",
+  ""Present Cue Types"": [
+    ""Appeal to Action - Authority"",
+    ""Potentially Malicious Link"",
+    ""Other Phishy Findings""
+  ],
+  ""Website Description"": ""The image depicts an email supposedly from Vanguard with a message instructing the recipient to log in to their account to view an important bank message. The email layout appears like a basic template used by email clients with a message section in the middle."",
+  ""TrustWorthiness Rating"": ""Untrustworthy"",
+  ""Visual Attractiveness Rating"": ""Neutral""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/4da22e90-d8d3-476d-9e14-283eb19a551b.png,43857100,False,Nothing Phishy Here,,"The website screenshot shows a login page for Venmo, a popular mobile payment service. The URL seems legitimate, with 'https' secure protocol and correct domain, and the layout is clean with minimal design. It also includes typical footer links and appstore badges.",Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The website screenshot shows a login page for Venmo, a popular mobile payment service. The URL seems legitimate, with 'https' secure protocol and correct domain, and the layout is clean with minimal design. It also includes typical footer links and appstore badges."",
+  ""TrustWorthiness Rating"": ""Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/2a3ff0b0-2bd2-43d0-a6a0-3d583ca14327.png,43857101,False,Nothing Phishy Here,,"This image appears to be a screenshot of an email promotion or announcement regarding a partnership between Venmo and Uber, which encourages users to pay for Uber and Uber Eats services using Venmo.",Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""This image appears to be a screenshot of an email promotion or announcement regarding a partnership between Venmo and Uber, which encourages users to pay for Uber and Uber Eats services using Venmo."",
+  ""TrustWorthiness Rating"": ""Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/3ea4494b-e150-4d19-904d-0bc2a3baa65b.png,43857103,True,Something's Phishy,Invalid Domain or Sender Potentially Malicious Link Other Phishy Findings,The image shows what appears to be an email within a web browser. The email header indicates a thank you for an order from 'Eddie Bauer Customer Service' with an email address that seems suspicious. There is also a warning message stating that a virus/spyware download has been blocked.,Untrustworthy,Visually Unattractive or Unappealing,"```json
+{
+  ""Findings"": ""Something's Phishy"",
+  ""Present Cue Types"": [
+    ""Invalid Domain or Sender"",
+    ""Potentially Malicious Link"",
+    ""Other Phishy Findings""
+  ],
+  ""Website Description"": ""The image shows what appears to be an email within a web browser. The email header indicates a thank you for an order from 'Eddie Bauer Customer Service' with an email address that seems suspicious. There is also a warning message stating that a virus/spyware download has been blocked."",
+  ""TrustWorthiness Rating"": ""Untrustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Unattractive or Unappealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/57779fdf-67be-43ac-956d-e7fba2ff648b.png,43857104,True,Nothing Phishy Here,,"The image depicts a website that is designed to represent WhatsApp messaging service. The website has a clean and modern design with information about the WhatsApp application, features for different platforms, and details about the WhatsApp Business App. It includes recognizable branding, structured navigation, and clearly presented information.",Very Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The image depicts a website that is designed to represent WhatsApp messaging service. The website has a clean and modern design with information about the WhatsApp application, features for different platforms, and details about the WhatsApp Business App. It includes recognizable branding, structured navigation, and clearly presented information."",
+  ""TrustWorthiness Rating"": ""Very Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/e36a664d-fa99-46d0-af9f-d4d059b82bc3.jpeg,43857918,True,Nothing Phishy Here,,"The image appears to be a screenshot of a legitimate banking website offering various financial services such as checking and savings accounts, credit cards, and home loans. It also features sections for Better Money Habits, news and information, and digital banking experiences.",Very Trustworthy,Visually Attractive or Appealing,"```json
+{
+  ""Findings"": ""Nothing Phishy Here"",
+  ""Present Cue Types"": [],
+  ""Website Description"": ""The image appears to be a screenshot of a legitimate banking website offering various financial services such as checking and savings accounts, credit cards, and home loans. It also features sections for Better Money Habits, news and information, and digital banking experiences."",
+  ""TrustWorthiness Rating"": ""Very Trustworthy"",
+  ""Visual Attractiveness Rating"": ""Visually Attractive or Appealing""
+}
+```"
+https://panoptes-uploads.zooniverse.org/production/subject_location/4fcde4f7-c269-4754-876c-81185a98b4bc.jpeg,52836956,True,Something's Phishy,Invalid Domain or Sender Potentially Malicious Link Other Phishy Findings,"The image shows a web page with a message indicating 'Nothing Found' as if it were the result of a search or a missing post. There are navigational elements such as 'Pricing', 'Portfolio', 'Support', and 'Contact', suggesting the website may be for a business service. There is also a contact number and business hours listed. Notably, there is a suspicious-looking link in the address bar that includes 'paypal-support' within another domain, which doesn't seem to match the content of the webpage, along with complex session data that seems unusual.",Untrustworthy,Neutral,"```json
+{
+  ""Findings"": ""Something's Phishy"",
+  ""Present Cue Types"": [
+    ""Invalid Domain or Sender"",
+    ""Potentially Malicious Link"",
+    ""Other Phishy Findings""
+  ],
+  ""Website Description"": ""The image shows a web page with a message indicating 'Nothing Found' as if it were the result of a search or a missing post. There are navigational elements such as 'Pricing', 'Portfolio', 'Support', and 'Contact', suggesting the website may be for a business service. There is also a contact number and business hours listed. Notably, there is a suspicious-looking link in the address bar that includes 'paypal-support' within another domain, which doesn't seem to match the content of the webpage, along with complex session data that seems unusual."",
+  ""TrustWorthiness Rating"": ""Untrustworthy"",
+  ""Visual Attractiveness Rating"": ""Neutral""
+}
+```"

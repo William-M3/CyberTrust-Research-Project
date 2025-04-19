@@ -1,0 +1,166 @@
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>url</th>
+      <th>subject_id</th>
+      <th>if_malicious</th>
+      <th>malicious_guess</th>
+      <th>Present_Cue_Types_Guess</th>
+      <th>Website_Description</th>
+      <th>TrustWorthiness_Rating</th>
+      <th>Visual_Attractiveness_Rating</th>
+      <th>Comments</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>https://panoptes-uploads.zooniverse.org/produc...</td>
+      <td>43856939</td>
+      <td>True</td>
+      <td>Nothing Phishy Here</td>
+      <td></td>
+      <td>The website image appears to be a promotional ...</td>
+      <td>Very Trustworthy</td>
+      <td>Very Visually Attractive or Appealing</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>https://panoptes-uploads.zooniverse.org/produc...</td>
+      <td>43856944</td>
+      <td>True</td>
+      <td>Nothing Phishy Here</td>
+      <td></td>
+      <td>The website presents itself as a hub for Unite...</td>
+      <td>Very Trustworthy</td>
+      <td>Very Visually Attractive or Appealing</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>https://panoptes-uploads.zooniverse.org/produc...</td>
+      <td>43856946</td>
+      <td>True</td>
+      <td>Nothing Phishy Here</td>
+      <td></td>
+      <td>The website appears to be a legitimate page fo...</td>
+      <td>Very Trustworthy</td>
+      <td>Very Visually Attractive or Appealing</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>https://panoptes-uploads.zooniverse.org/produc...</td>
+      <td>43856947</td>
+      <td>True</td>
+      <td>Nothing Phishy Here</td>
+      <td></td>
+      <td>The website in the image appears to be well-de...</td>
+      <td>Very Trustworthy</td>
+      <td>Very Visually Attractive or Appealing</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>https://panoptes-uploads.zooniverse.org/produc...</td>
+      <td>43856950</td>
+      <td>True</td>
+      <td>Something's Phishy</td>
+      <td>Invalid Domain or Sender</td>
+      <td>The screenshot shows a web page that resembles...</td>
+      <td>Very Untrustworthy</td>
+      <td>Moderately Visually Attractive</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>...</th>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+    </tr>
+    <tr>
+      <th>742</th>
+      <td>https://panoptes-uploads.zooniverse.org/produc...</td>
+      <td>52838299</td>
+      <td>True</td>
+      <td>Something's Phishy</td>
+      <td>Invalid Domain or Sender Poor Spelling or Gram...</td>
+      <td>The website tries to replicate a Google Docs l...</td>
+      <td>Very Untrustworthy</td>
+      <td>Very Visually Unattractive or Unappealing</td>
+      <td>"Other Phishy Findings": "The inconsistent an...</td>
+    </tr>
+    <tr>
+      <th>743</th>
+      <td>https://panoptes-uploads.zooniverse.org/produc...</td>
+      <td>52838300</td>
+      <td>True</td>
+      <td>Something's Phishy</td>
+      <td>Invalid Domain or Sender Appeal to Action - Au...</td>
+      <td>The webpage appears to be a profile update req...</td>
+      <td>Very Untrustworthy</td>
+      <td>Moderately Visually Unattractive</td>
+      <td>"Request for sensitive information that banks...</td>
+    </tr>
+    <tr>
+      <th>744</th>
+      <td>https://panoptes-uploads.zooniverse.org/produc...</td>
+      <td>52838303</td>
+      <td>True</td>
+      <td>Something's Phishy</td>
+      <td>Invalid Domain or Sender Potentially Malicious...</td>
+      <td>The image appears to be a screenshot of a webs...</td>
+      <td>Very Untrustworthy</td>
+      <td>Moderately Visually Attractive</td>
+      <td>"Other Phishy Findings": "The URL contains a ...</td>
+    </tr>
+    <tr>
+      <th>745</th>
+      <td>https://panoptes-uploads.zooniverse.org/produc...</td>
+      <td>52838306</td>
+      <td>True</td>
+      <td>Something's Phishy</td>
+      <td>Invalid Domain or Sender Appeal to Action - Gr...</td>
+      <td>The web page resembles a sign-in portal for Op...</td>
+      <td>Very Untrustworthy</td>
+      <td>Moderately Visually Unattractive or Unappealing</td>
+      <td>"Invalid Domain or Sender": "The domain in th...</td>
+    </tr>
+    <tr>
+      <th>746</th>
+      <td>https://panoptes-uploads.zooniverse.org/produc...</td>
+      <td>52838307</td>
+      <td>True</td>
+      <td>Something's Phishy</td>
+      <td>Invalid Domain or Sender Potentially Malicious...</td>
+      <td>The website is attempting to replicate the app...</td>
+      <td>Very Untrustworthy</td>
+      <td>Moderately Visually Attractive</td>
+      <td>"Other Phishy Findings": "Mimicking a legitim...</td>
+    </tr>
+  </tbody>
+</table>
+<p>747 rows × 9 columns</p>
+</div>
